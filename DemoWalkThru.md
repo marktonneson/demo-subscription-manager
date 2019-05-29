@@ -1,11 +1,11 @@
-# Subscription Manager Demo WalkThru
+## Subscription Manager Demo WalkThru
 
-## Requirements
+### Requirements
 * For most demo scenarios, any system registered or capable of being registered to Red Hat via RHSM
 * For other demo scenarios, utilizing Satellite, will require a valid Satellite subscription, setup, and connectivity.
 * Each scenario will list required components
 
-## WalkThru:
+### WalkThru:
 #### Scenario: Subscription-manager Basics
 * Requirements:
   * System registered to Portal or Satellite
