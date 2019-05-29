@@ -2,7 +2,7 @@
 
 Quick demo of various use cases for subscription-manager
 
-## WalkThru scenarios
+### WalkThru scenarios
 * Subscription-manager Basics
 * Working with virt-who
 * Using activation keys
@@ -11,7 +11,7 @@ Quick demo of various use cases for subscription-manager
 
 **Huge Shout-Out**: the majority of the content here is lifted directly from the excellent work of Rich Jerrido, Product Manager for RH Satellite.  Rich's blog posts listed below should be considered required reading for anyone managing Red Hat subscriptions with or without Satellite.
 
-## References
+### References and Resources
 * [Subscription-manager: Part 1 - Intro](https://access.redhat.com/blogs/1169563/posts/2153731)
 * [Subscription-manager: Part 2 - Subscription-manager learns grep](https://access.redhat.com/blogs/1169563/posts/2158391)
 * [Subscription-manager: Part 3 - Understanding virt-who](https://access.redhat.com/blogs/1169563/posts/2190731)
